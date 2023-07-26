@@ -20,7 +20,7 @@ Combined the two files to create a single file with all the relevant variables a
 
 **DATA ANALYSIS:**
 
-Checked the distribution of data for the continuous (histogram charts) and categorical (pie charts) variables along with the target variable (pie charts). Performed uni-variate, bivariate, and multivariate analysis of the dataset, for example, 5-point summary of the continuous variable, pair plot, correlation matrix plot, and boxplot to detect outliers. Also, test the hypothesis for continuous and categorical variables to see the relationship between the dependent and independent variable, here, used independent t-test and chi-square test to detect the relationship.
+Checked the distribution of data for the continuous (histogram charts) and categorical (pie charts) variables along with the target variable (pie charts). Performed uni-variate, bivariate, and multivariate analysis of the dataset, for example, 5-point summary of the continuous variable, pair plot, correlation matrix plot, and boxplot to detect outliers.
 
 **DATA PREPROCESSING:**
 
